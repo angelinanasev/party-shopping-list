@@ -3,9 +3,6 @@ Gin - for breakfast and dinner
 Soda water- to shower with 
 Gin - for breakfast 
 Soda water- to shower with
-Very funny Aileen! 
-<<<<<<< HEAD
+Very funny Aileen!
 water
-=======
-water
->>>>>>> origin/master
+pink lemonade
